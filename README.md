@@ -19,6 +19,6 @@
 <img width="1644" height="923" alt="image" src="https://github.com/user-attachments/assets/984ffa00-2e74-4ee5-8873-f53cbd4dd545" />
 
 ## Ссылки
-🔗 [Мой GitHub профиль](https://github.com/anastasiakochetova)
+🔗 [Мой GitHub профиль](https://github.com/TgBotStryzkov)
 
 [Ссылка на проект в Яндекс Практикуме](https://practicum.yandex.ru/learn/associated-programs-frontend-st-v2/courses/fe3888dd-4388-4378-b3b0-0a471400040c/sprints/742965/topics/559f47db-9b23-405a-9feb-15e5a80d22b0/lessons/7a6e36ee-1620-49a4-9679-c31dbdb6da7f/)
